@@ -8,8 +8,10 @@
   <body>
 
     <?php
-    echo ("Hello World: my websit");
+
+    echo ("Hello World: my website");
     echo ("My website for git project");
+    echo ("Modified my website");
     ?>
 
   </body>
