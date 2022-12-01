@@ -12,6 +12,7 @@
     echo ("Hello World: my website");
     echo ("My website for git project");
     echo ("Modified my website");
+    echo ("Changed to check: Push to Github");
     ?>
 
   </body>
